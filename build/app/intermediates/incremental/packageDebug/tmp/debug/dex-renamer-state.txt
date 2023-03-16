@@ -1,0 +1,7 @@
+#Thu Mar 16 13:44:33 CET 2023
+base.1=/Users/lopkart/Documents/flutter_projects/http_bloc/build/app/intermediates/dex/debug/mergeDexDebug/classes 2.dex
+path.1=classes 2.dex
+base.0=/Users/lopkart/Documents/flutter_projects/http_bloc/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
